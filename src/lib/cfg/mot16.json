@@ -1,0 +1,15 @@
+{
+    "root":"/home1/liuqigui/project/dataset/MIX",
+    "train":
+    {
+        "mot16":"./data/mot16.train"
+    },
+    "test_emb":
+    {
+        "mot16":"./data/mot16.train"
+    },
+    "test":
+    {
+        "mot16":"./data/mot16.train"
+    }
+}
